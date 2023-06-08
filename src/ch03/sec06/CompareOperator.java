@@ -25,7 +25,7 @@ public class CompareOperator {
         double num6 = 0.1;
         boolean result6 = (num5 == num6);
         boolean result7 = (num5 == (float) num6);
-        System.out.println("result6 = " + result6);
-        System.out.println("result7 = " + result7);
+        System.out.println("result6= " + result6);
+        System.out.println("result7= " + result7);
     }
 }
