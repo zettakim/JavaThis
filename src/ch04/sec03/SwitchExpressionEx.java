@@ -2,8 +2,7 @@ package ch04.sec03;
 
 public class SwitchExpressionEx {
     public static void main(String[] args) {
-        char grade = 'B
-        ';
+        char grade = 'B';
 
         switch (grade) {
             case 'a', 'A' -> {
